@@ -56,3 +56,7 @@ A personal collection of Python notebooks covering applied quantitative finance 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rongzhaoou/)
+
+[![Blog](https://img.shields.io/badge/Blog-Insights%20on%20Markets-0A66C2?style=for-the-badge&logo=rss&logoColor=white)](https://ourongzhao.github.io/blog/)
+
+[![Website](https://img.shields.io/badge/Website-Personal%20Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://ourongzhao.github.io/)
