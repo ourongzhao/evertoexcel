@@ -37,6 +37,20 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## 🚀 Current Project
+
+### [python-finance-examples](https://github.com/ourongzhao/python-finance-examples)
+
+A personal collection of Python notebooks covering applied quantitative finance topics, including:
+
+- 📐 **Interest Rate Modeling** — Vasicek, CIR, Hull-White and related term structure models
+- 💰 **Cap & Floor Valuation** — Black's model and numerical implementations
+- 🔄 **Swaption Valuation** — European swaptions with analytical and Monte Carlo approaches
+- 🎲 **Quasi-Monte Carlo Methods** — Sobol and Halton sequences for low-discrepancy simulation
+- 📊 More examples added regularly
+
+> Built for personal reference and continuous learning in derivatives pricing and risk management.
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rongzhaoou/)
