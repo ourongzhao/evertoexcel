@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Rongzhao]</h1>
+<h1 align="center">Hi, I'm Rongzhao </h1>
 <p align="center">
   <strong>Quantitative Finance · Risk Management · Machine Learning</strong>
 </p>
